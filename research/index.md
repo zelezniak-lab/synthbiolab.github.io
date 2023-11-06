@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 1
   tooltip: Published works
@@ -7,14 +7,26 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Full up to date-list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=h3uXyW8AAAAJ=en&oi=ao).
+
+{% include section.html %}
+
+
 
 {% include section.html %}
 
 ## Highlighted
+{% include citation.html lookup="Expanding" style="rich" %}
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="generative" style="rich" %}
+
+{% include citation.html lookup="Deep learning suggests" style="rich" %}
+
+{% include citation.html lookup="Plastic-Degrading" style="rich" %}
+
+<!-- {% include citation.html lookup="Learning the Regulatory Code " style="rich" %} -->
+
+
 
 {% include section.html %}
 
