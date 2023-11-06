@@ -1,0 +1,16 @@
+# manually correct specific citation detail
+- id: pmc:PMC5640425
+  publisher: Cold Spring Harbor
+
+# manually provide all citation details
+- title: Some Publication Title
+  authors:
+    - Steve McQueen
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
+
+# attach an arbitrary field
+- id: pmc:PMC5640425
+  some-field: 123
