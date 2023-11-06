@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Full up to date-list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=h3uXyW8AAAAJ=en&oi=ao).
+Full up to date-list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=h3uXyW8AAAAJ&hl=en&oi=ao).
 
 {% include section.html %}
 
