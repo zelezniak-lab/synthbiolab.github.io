@@ -549,7 +549,7 @@
   orcid: 0000-0002-3098-9441
   plugin: sources.py
   file: sources.yaml
-  image: images/proteinGAN.jpg
+  image: images/protein_Gan.png
 - id: doi:10.1002/pmic.202000093
   title: "Benchmarking accuracy and precision of intensity\u2010based absolute quantification\
     \ of protein abundances in <i>Saccharomyces cerevisiae</i>"
