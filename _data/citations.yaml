@@ -525,31 +525,7 @@
   orcid: 0000-0002-3098-9441
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s42256-021-00310-5
-  title: Expanding functional protein sequence spaces using generative adversarial
-    networks
-  authors:
-  - Donatas Repecka
-  - Vykintas Jauniskis
-  - Laurynas Karpus
-  - Elzbieta Rembeza
-  - Irmantas Rokaitis
-  - Jan Zrimec
-  - Simona Poviloniene
-  - Audrius Laurynenas
-  - Sandra Viknander
-  - Wissam Abuajwa
-  - Otto Savolainen
-  - Rolandas Meskys
-  - Martin K. M. Engqvist
-  - Aleksej Zelezniak
-  publisher: Nature Machine Intelligence
-  date: '2021-03-04'
-  link: https://doi.org/gjz6cf
-  orcid: 0000-0002-3098-9441
-  plugin: sources.py
-  file: sources.yaml
-  image: images/proteinGAN.jpg
+
 - id: doi:10.1002/pmic.202000093
   title: "Benchmarking accuracy and precision of intensity\u2010based absolute quantification\
     \ of protein abundances in <i>Saccharomyces cerevisiae</i>"
