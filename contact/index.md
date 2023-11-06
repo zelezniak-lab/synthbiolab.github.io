@@ -5,30 +5,10 @@ nav:
   tooltip: Email, address, and location
 ---
 
+
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 We're excited to share our recent expansion to the Randall Centre for Cell and Molecular Biophysics in London. Our roots are anchored in the Division of Systems and Synthetic Biology at Chalmers University of Technology in Gothenburg, Sweden, and we also have a satellite presence at Vilnius University Life Sciences Centre, Lithuania. Science does not have borders, and our collaborations are a testament to that.  We are always looking for new opportunities to collaborate and welcome your questions and comments. 
-
-
-
-<!-- {%
-  include button.html
-  type="email"
-  text="aleksej.zelezniak@chalmers.se"
-  link="aleksej.zelezniak@chalmers.se"
-%}
-{%
-  include button.html
-  type="phone"
-  text="+46 31 772 8171"
-  link="+46 (0)31-772 8171"
-%} -->
-<!-- {%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://goo.gl/maps/uL2KXCZ8nWppxbS8A"
-%} -->
 
 {% include section.html %}
 
@@ -58,6 +38,7 @@ We're excited to share our recent expansion to the Randall Centre for Cell and M
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% include section.html dark=true %}
+
 # {% include icon.html icon="fa-regular fa-envelope" %}Mailing Address
 {% capture col1 %}
 Randall Centre for Cell and Molecular Biophysics <br>
@@ -105,9 +86,10 @@ Lithuania
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid  fa-hashtag" %}Social Media
+# {% include icon.html icon="fa-solid  fa-hashtag" %}Join Us
 
-For all lab openings, news on our research, please follow us on Social Media: <br>
+* Interested in potential PhD/postdoc opportunities? Keep up-to-date with job openings by following us on twitter [@AZelezniak](https://twitter.com/AZelezniak).
+* We are always looking for talented and motivated students to join our team. If you are interested in doing a project with us, please contact PI directly.
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
