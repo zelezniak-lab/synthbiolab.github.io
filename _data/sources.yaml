@@ -2,7 +2,7 @@
 - id: doi:10.1038/s41467-020-19921-4
   image: images/top50.jpg
 - id: doi:10.1038/s42256-021-00310-5
-  image: images/proteinGAN.jpg
+  image: images/protein_Gan.png
 - id: doi:10.1128/mbio.02155-21
   image: images/plastics.png
 - id: doi:10.1038/s41467-022-32818-8
