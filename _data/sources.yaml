@@ -1,5 +1,11 @@
 # manually correct specific citation detail
 - id: doi:10.1038/s41467-022-32818-8
   image: images/top50.jpg
+- id: doi:10.1038/s42256-021-00310-5
+  image: images/proteinGAN.jpg
+- id: doi:10.1128/mbio.02155-21
+  image: images/plastics.png
+- id: doi:10.1038/s41467-022-32818-8
+  image: images/expression_gan.png
 
 # manually provide all citation details
