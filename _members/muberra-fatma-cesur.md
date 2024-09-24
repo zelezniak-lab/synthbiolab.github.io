@@ -1,7 +1,7 @@
 ---
 name: Müberra Fatma Cesur
 image: images/team/muberra.jpg
-role: phd
+role: a_phd
 # aliases:
 #   - A. Chovie
 #   - A Chovie

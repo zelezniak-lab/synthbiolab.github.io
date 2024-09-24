@@ -1,7 +1,7 @@
 ---
 name: Jeehae Moon
 image: images/team/jeehae.jpg
-role: msc
+role: a_msc
 links:
   email: jeehae@chalmers.se
   
