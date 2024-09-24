@@ -1,6 +1,6 @@
 ---
 name: Mahnoor Hassan
-image: images/team/mahnoorhassan.jpg
+image: images/team/MahnoorHassan.jpg
 role: postdoc
 links:
   email: mahnoor.4.hassan@kcl.ac.uk
