@@ -1,7 +1,7 @@
 ---
 name: Linnea Max
 image: images/team/Linnea-Max 1_1000x1000.jpg
-role: a_msc
+role: msc
 links:
   email: linnea.max@chalmers.se
   
